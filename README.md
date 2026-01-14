@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hashir Raza</h1>
-<h3 align="center">A passionate Full Stack developer from Pakistan</h3>
+<h3 align="center">A passionate Backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashirshah678&label=Profile%20views&color=0e75b6&style=flat" alt="hashirshah678" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **InVoiceGenerater Mobile Application**
 
-- 🌱 I’m currently learning **React Native, Pen testing**
+- 🌱 I’m currently learning **React Native, Nestjs framework, AI/ML, Penetration Testing**
 
 - 👯 I’m looking to collaborate on **social native app**
 
@@ -17,9 +17,9 @@
 
 - 👨‍💻 All of my projects are available at [evil_boy_never](evil_boy_never)
 
-- 💬 Ask me about **react, react native, c++**
+- 💬 Ask me about **react native, c++**
 
-- 📫 How to reach me **hashirshah629@gmail.com**
+- 📫 How to reach me **hashirraza1123@gmail.com**
 
 - ⚡ Fun fact **I think I am fun**
 
