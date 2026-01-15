@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Application**
+- 🔭 I’m currently working on **NestJS Application**
 
 - 🌱 I’m currently learning **React Native, Nestjs framework, AI/ML, Penetration Testing**
 
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are showcase at [evil_boy_never](evil_boy_never)
 
-- 💬 Ask me about **react native, c++**
+- 💬 Ask me about **React Native, NestJS Backend Framework**
 
 - 📫 How to reach me **hashirraza1123@gmail.com**
 
