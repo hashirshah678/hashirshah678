@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **DevOps**
 
-- 👨‍💻 All of my projects are available at [evil_boy_never](evil_boy_never)
+- 👨‍💻 All of my projects are showcase at [evil_boy_never](evil_boy_never)
 
 - 💬 Ask me about **react native, c++**
 
